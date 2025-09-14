@@ -1,6 +1,9 @@
 # Netflix-Dashboard
 Netflix Dashboard – An interactive Power BI dashboard that visualizes Netflix data across genres, ratings, countries, and release years. It helps track viewer engagement, top-performing shows, and subscription insights with drill-down filters for faster decision-making.
 
+<img width="1309" height="732" alt="image" src="https://github.com/user-attachments/assets/bc31bc77-325c-475f-9c28-792a21f1deb8" />
+
+
 🚀 Features
 
 🔹 Total Overview – Titles, genres, ratings, and availability.
